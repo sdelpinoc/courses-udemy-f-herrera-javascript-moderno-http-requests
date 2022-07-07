@@ -1,8 +1,4 @@
 # HTTP Proyect
-
-Chuck Norris API page:
-## [Chuck](https://api.chucknorris.io/)
-
 ## NOTES:
 
 - Remember to rebuilds node modules with:
