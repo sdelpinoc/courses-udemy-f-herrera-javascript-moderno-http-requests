@@ -1,10 +1,12 @@
+// You can comment and discommet the follow lines to check the different functionalities
+
 // import { init } from "./js/joke-page";
-// import { init as initUsers } from './js/users-page';
-// import * as CRUD from './js/crud-provider';
+
 import { init } from './js/file-upload-page';
 
-// init();
-// initUsers();
+init(); // is used with joke-page, file-upload-page
+
+// import * as CRUD from './js/crud-provider';
 
 // CRUD.getUsers(1).then(console.log);
 
@@ -20,4 +22,6 @@ import { init } from './js/file-upload-page';
 
 // CRUD.deleteUser(2).then(console.log);
 
-init();
+// import { init as initUsers } from './js/users-page';
+
+// initUsers();
